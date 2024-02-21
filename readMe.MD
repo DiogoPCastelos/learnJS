@@ -16,4 +16,5 @@ The project is organized into different directories, each representing a specifi
 
 Here is an overview of the project structure:
 
-- [Project 1](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)
+- [Web Tutorial 1](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)
+- [Web Tutorial 2](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
