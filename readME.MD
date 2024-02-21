@@ -16,9 +16,5 @@ The project is organized into different directories, each representing a specifi
 
 Here is an overview of the project structure:
 
-<<<<<<< HEAD:readMe.MD
 - [Web Tutorial 1](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)
 - [Web Tutorial 2](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
-=======
-- [Project 1](https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh)
->>>>>>> 263ca86db1ab04e5a9a20a2f911bbbe2584c9245:readME.MD
